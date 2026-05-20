@@ -1,0 +1,5 @@
+{
+  "name": "PDM to PLM Converter",
+  "description": "An expert system to automatically generate PLM drawing names, part names, and numbers from PDM data based on strict conversion rules.",
+  "requestFramePermissions": []
+}
